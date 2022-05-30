@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/MainNav/MainNav.scss"],"names":[],"mappings":"AAAA,aACE,iBAAkB,CAElB,cACE,wBAAyB","file":"main.942bffe9.chunk.css","sourcesContent":[".navbar {\n  text-align: center;\n\n  &__link {\n    text-transform: uppercase;\n  }\n}\n"]}
